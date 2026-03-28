@@ -44,7 +44,7 @@ print('''
  ''')
 
 
-print("******** WELCOME TO SIMPLE-Password Generator - By: Dr.m DEV *********")
+print("******** WELCOME TO ADVANCED-Password Generator - By: Dr.m DEV *********")
 # =================================================================
 print("Password Generator ONLINE!")
 # ===================================================================================================
